@@ -10,6 +10,8 @@ It's basically part of what I have learnt from the Udacity Android course.
 
 Android Basics: MultiScreen App : https://lnkd.in/ePz9zjQ
 
+Video: https://user-images.githubusercontent.com/70067211/106390795-310b2380-6410-11eb-88cb-619cfc7af80d.mp4
+
 <img src ="https://user-images.githubusercontent.com/70067211/106390697-a7f3ec80-640f-11eb-87db-6800b74909c9.jpg" width="200" height="420" />
 <img src ="https://user-images.githubusercontent.com/70067211/106390705-ab877380-640f-11eb-8512-2dde06a3e600.jpg" width="200" height="420" />
 <img src ="https://user-images.githubusercontent.com/70067211/106390707-ad513700-640f-11eb-86f8-8f7cb312235d.jpg" width="200" height="420" />
@@ -17,3 +19,5 @@ Android Basics: MultiScreen App : https://lnkd.in/ePz9zjQ
 <img src ="https://user-images.githubusercontent.com/70067211/106390713-b5a97200-640f-11eb-9f55-fd1b95566578.jpg" width="200" height="420" />
 
 Video Link: https://www.linkedin.com/posts/khushali-jiyani-3b49211b7_udacity-androiddevelopment-learninganddevelopment-activity-6761344770603319296-NM8l
+
+

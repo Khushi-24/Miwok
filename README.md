@@ -18,6 +18,6 @@ Video: https://user-images.githubusercontent.com/70067211/106390795-310b2380-641
 <img src ="https://user-images.githubusercontent.com/70067211/106390709-b04c2780-640f-11eb-9246-98b2106b0cb3.jpg" width="200" height="420" />
 <img src ="https://user-images.githubusercontent.com/70067211/106390713-b5a97200-640f-11eb-9f55-fd1b95566578.jpg" width="200" height="420" />
 
-Video Link: https://www.linkedin.com/posts/khushali-jiyani-3b49211b7_udacity-androiddevelopment-learninganddevelopment-activity-6761344770603319296-NM8l
+
 
 
